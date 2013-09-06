@@ -1,1 +1,1 @@
-test 101 
+test 101 // Dette er tilleggsinfo for å se om det som skrives her, autosynces med pc'en i mappen "GITmap" 101. 
